@@ -1,0 +1,5 @@
+.Watchlist-container {
+	display: flex;
+	height: 100vh;
+	background-color: #4e5151;
+}
